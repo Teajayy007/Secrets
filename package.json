@@ -18,7 +18,7 @@
     "express-session": "^1.16.1",
     "lodash": "^4.17.11",
     "md5": "^2.2.1",
-    "mongoose": "^5.5.11",
+    "mongoose": "^5.7.5",
     "mongoose-encrypt": "0.0.1-alpha.3",
     "mongoose-encryption": "^2.0.2",
     "mongoose-findorcreate": "^3.0.0",
