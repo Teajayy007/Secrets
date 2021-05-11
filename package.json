@@ -16,7 +16,7 @@
     "ejs": "^2.6.1",
     "express": "^4.17.1",
     "express-session": "^1.16.1",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "md5": "^2.2.1",
     "mongoose": "^5.7.5",
     "mongoose-encrypt": "0.0.1-alpha.3",
